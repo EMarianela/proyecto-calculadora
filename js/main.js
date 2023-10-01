@@ -19,11 +19,6 @@ botones.forEach(boton => {
     return;
     }
 
-    if (boton.id === "porc" ) {;
-      pantalla.textContent = Number * Number / 100;
-    
-    }
-
     if (boton.id === "igual") {
       try {
         pantalla.textContent = eval(pantalla.textContent);
