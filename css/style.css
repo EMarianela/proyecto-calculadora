@@ -58,6 +58,7 @@ place-items: center;
 }
 
 #igual{
+    grid-area: 6 / 5 / 4 / 6;
     background-color: rgba(184, 59, 59, 0.555);
 }
 
