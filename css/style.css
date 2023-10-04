@@ -102,8 +102,12 @@ place-content: center;
     .col-xs-0 {display: none;}
 
     #calculadora {
-        width:290px;
-        
+        width:250px;
+        height: 350px;
+    }
+
+    .btn { 
+        padding: .8rem .5rem;
     }
 
 }
